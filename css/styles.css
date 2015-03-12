@@ -1,3 +1,5 @@
+/* CSS Document */
+
 body {
 	background-color: transparent;
 	background: url(../img/bg_main-image.jpg) no-repeat center center fixed;
@@ -83,7 +85,7 @@ tr:hover {
 	padding: 100px 0; }
 #skillROCKET {
 	text-align: right; }
-#skillQUOTE {
+.skillQUOTE {
 	text-align: center;
 	line-height: 26px;
 	padding: 100px 0;
@@ -93,14 +95,14 @@ tr:hover {
 #carSHELL {
 	width: 100%;
 	background: #ECF0F1; }
-#carHEAD {
+.carHEAD {
 	text-align: center;
 	line-height: 20px;
 	padding: 100px 0; }
-#carLEFT {
+.carLEFT {
 	text-align: left;
 	margin-bottom: 30px; }
-#carRIGHT {
+.carRIGHT {
 	text-align: justify;
 	background: #FFF;
 	border-left: 4px solid #D9DFE2;
