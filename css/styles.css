@@ -1,0 +1,150 @@
+body {
+	background-color: transparent;
+	background: url(../img/bg_main-image.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif; }
+
+td {
+	border: 0px !important;
+	padding: 20px 10px !important; }
+tr:hover {
+	background: #233240;
+	cursor: pointer; }
+
+.s100 { font-size: 100px; }
+.s60 { font-size: 60px; }
+.s30 { font-size: 30px; }
+.s24 { font-size: 24px; }
+.s20 { font-size: 20px; }
+.s18 { font-size: 18px; }
+.s16 { font-size: 16px; }
+.s14 { font-size: 14px; }
+.s12 { font-size: 12px; }
+.black { color: #000; }
+.white { color: #FFF; }
+.whiteS { color: #FFF; color: rgba(255,255,255,.9); }
+.blueD { color: #34495E; }
+.blueDD { color: #233240; }
+.grayD { color: #333; }
+.grayM { color: #878787; }
+.grayL { color: #C1C1C1; }
+.bold { font-weight: bold; }
+.spaced { letter-spacing: 10px; }
+.shadow { text-shadow: 0 0 10px rgba(0,0,0,1); }
+.linkCAR {
+	text-decoration: none;
+	color: #4C7CAC; }
+
+
+#nameSHELL {
+	width: 100%; }
+#nameNAME {
+	margin: 0 auto;
+	text-align: center;
+	line-height: 84px; }
+#nameSUB {
+	margin: 0 auto;
+	margin-top: 10px;
+	text-indent: 10px;
+	text-align: center; }
+
+
+#proSHELL {
+	width: 100%;
+	background: #FFF; }
+#proHEAD {
+	text-align: center;
+	line-height: 20px;
+	padding: 100px 0; }
+#proDEETS {
+	text-align: center;
+	line-height: 18px;
+	padding-top: 90px; }
+#proASTRO {
+	text-align: center; }
+#proBLURB {
+	text-align: justify;
+	padding-top: 90px; }
+#proQUOTE {
+	text-align: center;
+	line-height: 16px;
+	padding: 100px 0; }
+
+
+#skillSHELL {
+	width: 100%;
+	background: #34495E; }
+#skillHEAD {
+	text-align: center;
+	line-height: 20px;
+	padding: 100px 0; }
+#skillROCKET {
+	text-align: right; }
+#skillQUOTE {
+	text-align: center;
+	line-height: 26px;
+	padding: 100px 0;
+	max-width: 900px;
+	margin: 0 auto; }
+
+#carSHELL {
+	width: 100%;
+	background: #ECF0F1; }
+#carHEAD {
+	text-align: center;
+	line-height: 20px;
+	padding: 100px 0; }
+#carLEFT {
+	text-align: left;
+	margin-bottom: 30px; }
+#carRIGHT {
+	text-align: justify;
+	background: #FFF;
+	border-left: 4px solid #D9DFE2;
+	padding: 10px 30px 10px 30px;
+	margin-bottom: 70px; }
+
+#workSHELL {
+	width: 100%;
+	background: #FFF; }
+.workRIGHT {
+	text-align: center;
+	margin-bottom: 50px; }
+.workLEFT {
+	text-align: center;
+	margin-bottom: 50px; }
+.workBUTT {
+	width: 100%;
+	text-align: center;
+	padding: 30px 0; }
+#workDIVIDE {
+	margin: 50px 0;
+	border-top: 1px dashed #DEDEDE;
+	clear: both; }
+.img-center {
+	margin: 0 auto; }
+
+
+#contSHELL {
+	width: 100%;
+	background: #34495E; }
+#contHEAD {
+	text-align: center;
+	line-height: 20px;
+	padding: 100px 0; }
+.form-control {
+	margin-bottom: -10px; }
+#contBUTT {
+	text-align: center;
+	margin-top: 60px; }
+#contQUOTE {
+	text-align: center;
+	line-height: 26px;
+	padding: 100px 0;
+	margin: 0 auto;
+	clear: both; }
+#contPFOTEF {
+	display: none; }
